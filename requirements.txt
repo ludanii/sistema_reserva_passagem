@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+SQLAlchemy
+pandas
+requests
+
+
+# instalar as  dependências:
+# pip install -r requirements.txt
