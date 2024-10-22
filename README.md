@@ -8,7 +8,10 @@ que permite criar, atualizar, listar e deletar voos, passageiros e reservas. Con
 
 ### Comandos
 COMANDO PARA RODAR O SERVIDOR: <br>
-uvicorn main:app --reload
+Para rodar a API:
+    uvicorn main:app --reload
+Para rodar o menu:
+    python menu.py
 
 ### Tecnologias
 <div>
